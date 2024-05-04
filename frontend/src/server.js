@@ -1,3 +1,3 @@
-export const server = "https://eshopreva.netlify.app/api/v2";
+export const server = "https://eshopreva-revanthayitha2021-gmailcoms-projects.vercel.app/api/v2";
 
 
