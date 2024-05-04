@@ -6,7 +6,7 @@ const bodyParser = require("body-parser");
 const cors = require("cors");
 
 app.use(cors({
-  origin: ['https://eshopreva.netlify.app',],
+  origin: ['https://eshopreva-revanthayitha2021-gmailcoms-projects.vercel.app',],
   credentials: true
 }));
 
